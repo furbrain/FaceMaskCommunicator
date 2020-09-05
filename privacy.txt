@@ -1,0 +1,8 @@
+Face Mask Communicator works by transcribing the users speech into text
+and sends it over bluetooth to the selected device. The app uses android
+SpeechRecognizer API to translate the users speech, and the audio data 
+may be sent to Google and is covered by their privacy policy:
+https://policies.google.com/privacy
+
+No information is otherwise collected or stored. Underwood Underground
+does and will not hold, process, or otherwise use *any* data from the user
