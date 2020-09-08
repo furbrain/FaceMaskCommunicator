@@ -1,16 +1,8 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a3d8a40d7133497caa11051eaac6f1a2)](https://www.codacy.com/manual/kai-morich/SimpleBluetoothTerminal?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kai-morich/SimpleBluetoothTerminal&amp;utm_campaign=Badge_Grade)
+# Face Mask Communicator
 
-# SimpleBluetoothTerminal
-
-This Android app provides a line-oriented terminal / console for classic Bluetooth (2.x) devices implementing the Bluetooth Serial Port Profile (SPP)
-
-For an overview on Android Bluetooth communication see 
-[Android Bluetooth Overview](https://developer.android.com/guide/topics/connectivity/bluetooth).
-
-This App implements RFCOMM connection to the well-known SPP UUID 00001101-0000-1000-8000-00805F9B34FB
+This Android app provides a continuous voice recognition service, which is connected to a Bluetooth serial channel.
 
 ## Motivation
 
-I got various requests asking for help with Android development or source code for my 
-[Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal) app.
-Here you find a simplified version of my app.
+This allows the user to use their android device to communicate with an arduino and display their words on a LED Matrix
+in a face mask. This can be of great help to people with hearing impairment
